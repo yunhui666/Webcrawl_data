@@ -1,0 +1,101 @@
+,Address,price,num_of_bedrooms,num_of_bathrooms,square_footage,Year Built,Times on Zillow,Number of Views
+0,"15 Central Park W PENTHOUSE 41, New York, NY 10023","$45,000,000",4,4,"4,024",2007,598 days,"12,098"
+1,"111 W 70th St APT 1-F, New York, NY 10023","$499,000",1,2,--,1910,119 days,"4,626"
+2,"32 W 76th St, New York, NY 10023","$27,500,000",6,9,"10,635",1891,91 days,"5,286"
+3,"200 Amsterdam Ave PENTHOUSE 2, New York, NY 10023","$38,000,000",4,5,"6,325",2021,159 days,"3,987"
+4,"3 Riverside Dr, New York, NY 10023","$19,995,000",9,1,"19,251",1899,195 days,"5,897"
+5,"171 W 73rd St APT 5, New York, NY 10023","$545,000",1,1,650,1910,N/A,N/A
+6,"2109 Broadway APT 520, New York, NY 10023","$380,000",Studio,1,280,1902,N/A,N/A
+7,"123 W 74th St APT 1A, New York, NY 10023","$429,000",1,1,--,1925,459 days,"3,717"
+8,"336 W End Ave APT 4F, New York, NY 10023","$400,000",Studio,1,600,1931,N/A,N/A
+9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10,"28 W 69th St #PENTHOUSE, New York, NY 10023","$3,950,000",5,4,"2,500",1931,N/A,N/A
+11,"145-146 Central Park W #2G, New York, NY 10023","$6,100,000",3,3,"2,650",1925,117 days,"1,272"
+12,"112 W 72nd St #2AB, New York, NY 10023","$1,995,000",4,2,--,1930,152 days,942
+13,"120 W 70th St APT 8A, New York, NY 10023","$2,249,000",3,2,"1,500",1905,N/A,N/A
+14,"163 W 76th St, New York, NY 10023","$16,000,000",6,1,"8,009",1917,67 days,"2,493"
+15,"50 Central Park W, New York, NY 10023","$21,900,000",5,7,"122,273",1910,204 days,"1,302"
+16,"260 W End Ave #2/3E, New York, NY 10023","$1,695,000",3,2,--,1907,17 days,"1,942"
+17,"200 Amsterdam Ave APT 27C, New York, NY 10023","$6,595,000",2,3,"2,092",1925,N/A,N/A
+18,"350 W 71st St, New York, NY 10023","$2,800,000",3,3,"2,096",2021,N/A,N/A
+19,N/A,N/A,N/A,N/A,N/A,2019,N/A,N/A
+20,"46 W 65th St APT 5A, New York, NY 10023","$525,000",1,1,--,N/A,40 days,361
+21,"65 Central Park W APT 4B, New York, NY 10023","$3,700,000",2,2,--,2019,11 days,480
+22,"44 W 76th St APT 5, New York, NY 10023","$999,000",1,1,717,1910,N/A,N/A
+23,"20 W 64th St #37EFG, New York, NY 10023","$7,495,000",5,6,"3,398",1929,N/A,N/A
+24,"80 Central Park W #16FG, New York, NY 10023","$3,750,000",3,3,"1,843",1900,762 days,711
+25,"200 Amsterdam Ave #46, New York, NY 10023","$17,900,000",3,5,"3,933",1969,168 days,585
+26,"170 W End Ave APT 27R, New York, NY 10023","$585,000",Studio,1,--,1968,N/A,N/A
+27,"327 W 76th St, New York, NY 10023","$11,995,000",5,7,"8,000",2021,N/A,N/A
+28,"243 W 60th St APT 3A, New York, NY 10023","$2,295,000",3,3,"1,667",1961,124 days,402
+29,N/A,N/A,N/A,N/A,N/A,1900,N/A,N/A
+30,"2150 Broadway APT 7E, New York, NY 10023","$4,675,000",2,3,"1,737",2008,7 days,230
+31,"101 Central Park W #17/18G, New York, NY 10023","$13,995,000",4,5,--,N/A,N/A,N/A
+32,"2000 Broadway APT 8D, New York, NY 10023","$1,595,000",2,2,"1,026",2008,97 days,465
+33,"46 W 65th St #D1, New York, NY 10023","$539,000",1,1,--,2011,22 days,84
+34,"2109 Broadway APT 6142, New York, NY 10023","$975,000",1,1,610,1928,7 days,361
+35,"15 Central Park W APT 34C, New York, NY 10023","$26,500,000",3,4,"2,761",1987,N/A,N/A
+36,"15 Central Park W APT 36B, New York, NY 10023","$15,500,000",2,3,"2,367",1910,N/A,N/A
+37,"243 W 70th St APT 4A, New York, NY 10023","$1,595,000",2,2,"1,200",1902,N/A,N/A
+38,"30 W 63rd St APT 6E, New York, NY 10023","$1,379,000",1,1,674,2007,N/A,N/A
+39,N/A,N/A,N/A,N/A,N/A,2007,N/A,N/A
+40,"120 W 70th St APT 1B, New York, NY 10023","$599,000",1,1,--,1926,54 days,721
+41,"15 W 61st St #4D, New York, NY 10023","$1,200,000",Studio,1,657,1979,N/A,N/A
+42,"116 W 72nd St APT 10D, New York, NY 10023","$598,000",1,1,437,N/A,N/A,N/A
+43,"2 W 67th St #15G, New York, NY 10023","$1,200,000",Studio,1,--,1979,32 days,"1,101"
+44,"61 W 62nd St APT 24J, New York, NY 10023","$1,700,000",3,2,--,1917,N/A,N/A
+45,"25 Central Park W APT 5N, New York, NY 10023","$4,450,000",3,4,"2,010",2019,209 days,321
+46,"160 W 66th St #39CDE, New York, NY 10023","$8,200,000",3,4,"2,600",1918,N/A,N/A
+47,"41 W 72nd St APT 10D, New York, NY 10023","$1,675,000",2,2,"1,000",1918,N/A,N/A
+48,"25 Central Park W #4MN, New York, NY 10023","$9,995,000",5,6,"4,020",1981,N/A,N/A
+49,N/A,N/A,N/A,N/A,N/A,1932,N/A,N/A
+50,"1991 Broadway APT 14B, New York, NY 10023","$1,499,000",2,2,875,1928,N/A,N/A
+51,"80 Central Park W APT 15G, New York, NY 10023","$825,000",Studio,1,630,1932,N/A,N/A
+52,"300 W 72nd St APT 1A, New York, NY 10023","$625,000",1,1,750,N/A,256 days,355
+53,"15 W 61st St #8A, New York, NY 10023","$4,900,000",3,3,"1,546",1932,395 days,37
+54,"10 W End Ave APT 8H, New York, NY 10023","$2,050,000",2,2,"1,377",1985,N/A,N/A
+55,"105 W 70th St APT 3F, New York, NY 10023","$750,000",1,1,--,1968,N/A,N/A
+56,"10 W End Ave APT 30B, New York, NY 10023","$2,695,000",2,3,"1,484",1942,N/A,N/A
+57,"140 W 69th St APT 61B, New York, NY 10023","$345,000",Studio,1,--,2019,61 days,303
+58,"150 Columbus Ave APT 8D, New York, NY 10023","$3,150,000",2,3,"1,450",2007,133 days,573
+59,N/A,N/A,N/A,N/A,N/A,1910,N/A,N/A
+60,"61 W 62nd St #16MN, New York, NY 10023","$3,000,000",4,3,--,2007,336 days,457
+61,"200 Amsterdam Ave APT 34B, New York, NY 10023","$10,600,000",3,4,"2,692",1905,N/A,N/A
+62,"10 W 66th St APT 17F, New York, NY 10023","$1,995,000",2,2,--,1995,N/A,N/A
+63,"1 Central Park N #1210, New York, NY 10023","$3,495,000",2,3,"1,540",N/A,N/A,N/A
+64,"235 W 75th St APT 412, New York, NY 10023","$7,300,000",4,5,"3,228",1995,N/A,N/A
+65,"180 W End Ave APT 19P, New York, NY 10023","$540,000",Studio,1,--,1981,N/A,N/A
+66,"49 W 72nd St APT 16B, New York, NY 10023","$619,000",1,1,--,2021,N/A,N/A
+67,"40 W 72nd St APT 121, New York, NY 10023","$2,895,000",3,3,--,1969,222 days,269
+68,"12 W 72nd St #6G, New York, NY 10023","$415,000",Studio,1,--,1960,N/A,N/A
+69,N/A,N/A,N/A,N/A,N/A,2018,N/A,N/A
+70,"235 W End Ave APT 9C, New York, NY 10023","$899,000",1,1,676,1965,N/A,N/A
+71,"128 W 70th St APT 3, New York, NY 10023","$599,000",Studio,1,--,1930,200 days,288
+72,"15 Central Park W APT 3F, New York, NY 10023","$6,395,000",2,3,"1,987",1926,420 days,245
+73,"160 W 66th St APT 56F, New York, NY 10023","$2,995,000",2,3,"1,239",1927,N/A,N/A
+74,"303 W 66th St APT 11EE, New York, NY 10023","$1,695,000",3,2,"1,300",N/A,N/A,N/A
+75,"111 W 67th St APT 31F, New York, NY 10023","$2,500,000",2,2,"1,055",1927,104 days,163
+76,"80 Central Park W APT 7A, New York, NY 10023","$1,950,000",1,2,950,1930,25 days,515
+77,"2112 Broadway #4C, New York, NY 10023","$4,300,000",3,4,"2,050",1900,N/A,N/A
+78,"315 W 70th St APT 15B1, New York, NY 10023","$650,000",1,1,--,2007,N/A,N/A
+79,N/A,N/A,N/A,N/A,N/A,1989,N/A,N/A
+80,"2109 Broadway APT 1002, New York, NY 10023","$950,000",1,1,750,1962,N/A,N/A
+81,"201 W 70th St APT 30K, New York, NY 10023","$2,125,000",2,2,--,1994,N/A,N/A
+82,"140 W 69th St APT 75B, New York, NY 10023","$399,000",Studio,1,355,1968,N/A,N/A
+83,"201 W 70th St APT 8K, New York, NY 10023","$879,000",1,1,700,1928,N/A,N/A
+84,"140 W 69th St APT 45C, New York, NY 10023","$365,000",Studio,1,--,1963,112 days,245
+85,"140 W 71st St #8BC, New York, NY 10023","$1,250,000",2,1,--,N/A,199 days,295
+86,"12 W 72nd St APT 14ABC, New York, NY 10023","$4,275,000",4,4,--,1963,N/A,N/A
+87,"15 W 61st St #3J, New York, NY 10023","$3,725,000",2,2,"1,396",1902,N/A,N/A
+88,"15 W 63rd St APT 20C, New York, NY 10023","$2,995,000",2,2,"1,309",1971,39 days,213
+89,N/A,N/A,N/A,N/A,N/A,1905,N/A,N/A
+90,"2025 Broadway #22H, New York, NY 10023","$725,000",1,1,--,1971,42 days,127
+91,"11 Riverside Dr APT 14RE, New York, NY 10023","$700,000",1,1,--,1905,99 days,72
+92,"155 W 70th St APT 7H, New York, NY 10023","$760,000",Studio,1,617,1920,N/A,N/A
+93,"305 W 72nd St APT 7D, New York, NY 10023","$585,000",1,1,--,1927,98 days,185
+94,"212 W 72nd St #15A, New York, NY 10023","$2,345,000",2,2,"1,137",2019,88 days,95
+95,"170 W 74th St APT 908, New York, NY 10023","$480,000",Studio,1,--,1999,N/A,N/A
+96,"1 Central Park W #1002/1003, New York, NY 10023","$2,795,000",2,2,"1,182",N/A,300 days,44
+97,"15 W 61st St #20A, New York, NY 10023","$6,725,000",3,3,--,1999,N/A,N/A
+98,"61 W 62nd St APT 18B, New York, NY 10023","$619,000",1,1,--,1977,N/A,N/A
+99,N/A,N/A,N/A,N/A,N/A,1950,N/A,N/A
